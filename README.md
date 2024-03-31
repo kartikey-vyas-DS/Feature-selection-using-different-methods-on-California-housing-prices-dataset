@@ -78,9 +78,6 @@ heatmap of correlation using seaborn
 ![alt text](download2.png)
 Plotted bar chart on feature_names to W (with 4 different alpha values)
 ![alt text](download3.png)
-![alt text](download4.png)
-![alt text](download5.png)
-![alt text](download6.png)
 
 ## Key Takeaways
 
